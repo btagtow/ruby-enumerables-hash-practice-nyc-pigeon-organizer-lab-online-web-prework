@@ -1,3 +1,4 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  final = {}
+  data.each do |first_level, all_other|
 end
